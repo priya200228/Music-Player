@@ -32,7 +32,6 @@ main {
     height: 100vh;
     border-radius: 0.5rem;
     padding: 1.5rem;
-    width: 22rem;
     display: flex;
     flex-direction: column;
     gap: 10px;
